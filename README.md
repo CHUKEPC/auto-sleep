@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/auto-sleep.git
+git clone https://github.com/CHUKEPC/auto-sleep.git
 cd auto-sleep
 ```
 
